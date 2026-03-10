@@ -6,12 +6,12 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
+    "ip": "thekingland.aternos.me",
+    "port": 26132,
     "version": "",
     "try-creative": false
   },
-  "position": {
+  "position": {  
     "enabled": true,
     "x": 0,
     "y": 100,
